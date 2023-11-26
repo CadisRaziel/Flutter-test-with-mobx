@@ -1,0 +1,1 @@
+geralmente pelo que pesquisei essa classe é chamada de Store, porém eu decidi alterar o nome para controller para não fugir dos 'padrões'
