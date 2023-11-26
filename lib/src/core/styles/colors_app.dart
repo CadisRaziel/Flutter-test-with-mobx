@@ -14,8 +14,10 @@ class ColorsApp {
   Color get backgroundLinearThree => const Color.fromARGB(255, 77, 182, 172);
   Color get primary => Colors.teal[700]!;
   Color get secondary => Colors.black;
-  Color get textAux => Colors.white;
-  Color get buttonHomePage => Colors.green;
+  Color get whiteAux => Colors.white;
+  Color get greenAux => Colors.green;
+  Color get redAux => Colors.red;
+  Color get greyAux => Colors.grey;
 }
 
 extension ColorsAppExtension on BuildContext {

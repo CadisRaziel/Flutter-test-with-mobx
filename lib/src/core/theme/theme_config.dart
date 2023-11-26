@@ -46,6 +46,7 @@ class ThemeConfig {
       ),
       errorStyle: TextStyles.instanceTextStyles.textLight.copyWith(
         color: Colors.redAccent,
+        fontSize: 14,
       ),
     ),
   );
